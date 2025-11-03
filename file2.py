@@ -38,3 +38,4 @@ if __name__ == "__main__":
     manager.append_line("This is an appended line.")
     print("Lines after append:", manager.count_lines())
     print("practice-6-main-duplicate-3 changes")
+    print("adding change to file2.py")
