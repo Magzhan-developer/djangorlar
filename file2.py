@@ -39,3 +39,4 @@ if __name__ == "__main__":
     print("Lines after append:", manager.count_lines())
     print("practice-6-main-duplicate-3 changes")
     print("adding change to file2.py")
+    print("adding 3rd change commit")
