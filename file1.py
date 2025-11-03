@@ -45,4 +45,5 @@ if __name__ == "__main__":
     calc.subtract(10, 4)
     calc.multiply(2, 8)
     calc.divide(9, 3)
+    calc.power(2, 5)
     calc.show_history()
