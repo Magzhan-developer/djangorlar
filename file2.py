@@ -37,3 +37,4 @@ if __name__ == "__main__":
     print("Total words:", manager.count_words())
     manager.append_line("This is an appended line.")
     print("Lines after append:", manager.count_lines())
+    print("practice-6-main-duplicate-3 changes")
